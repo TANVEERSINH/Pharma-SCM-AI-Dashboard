@@ -1,0 +1,9 @@
+supplier_id,supplier_name,country,region,lat,lon,products_supplied,delivery_delay_avg_days,on_time_delivery_pct,single_source,financial_stability,regulatory_compliance,geopolitical_risk,years_partnership,risk_score,risk_category
+SUP001,SunPharma India,India,Asia,19.076,72.877,"Paracetamol_500mg, Metformin_500mg, Ibuprofen_400mg",3.2,88,True,7,8,6,8,26.5,MEDIUM
+SUP002,Roche Basel,Switzerland,Europe,47.559,7.588,"Insulin_Glargine, Atorvastatin_20mg",1.1,97,False,10,10,2,15,5.5,LOW
+SUP003,Sinopharm China,China,Asia,39.904,116.407,"Amoxicillin_250mg, Azithromycin_500mg, Cetirizine_10mg",5.8,79,True,6,7,8,5,39.8,MEDIUM
+SUP004,Teva Pharmaceuticals,Israel,Middle East,32.086,34.768,"Omeprazole_20mg, Amlodipine_5mg",2.5,91,False,8,9,7,10,19.5,LOW
+SUP005,Cipla Mumbai,India,Asia,18.975,72.826,"Paracetamol_500mg, Ibuprofen_400mg",4.0,84,False,7,8,6,6,26.5,MEDIUM
+SUP006,Novartis Germany,Germany,Europe,48.135,11.582,"Metformin_500mg, Atorvastatin_20mg",1.5,95,False,10,10,1,12,6.0,LOW
+SUP007,BioPharm Egypt,Egypt,Africa,30.033,31.233,"Cetirizine_10mg, Omeprazole_20mg",8.5,68,True,4,5,9,2,55.2,HIGH
+SUP008,Pfizer USA,United States,North America,40.713,-74.006,"Azithromycin_500mg, Amoxicillin_250mg",2.0,93,False,10,10,2,9,8.8,LOW
